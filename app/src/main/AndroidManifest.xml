@@ -10,8 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ButtonOnClick">
         <activity
+            android:name=".ActivityLihatData"
+            android:exported="false"
+            android:parentActivityName=".Home_Activity"/>
+        <activity
+            android:name=".Home_Activity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
             android:name=".DaftarActivity"
-            android:parentActivityName=".MainActivity"></activity>
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".ActivityHasil"
             android:exported="false"

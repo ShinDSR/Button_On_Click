@@ -105,8 +105,8 @@ public class MainActivity extends AppCompatActivity {
                         // dan dimasukkan ke dalam bundle
                         b.putString("b", password.trim());
 
-                        //membuat objek intent berpindah activity dari mainactivity ke ActivityHasil
-                        Intent i = new Intent(getApplicationContext(), ActivityHasil.class);
+                        //membuat objek intent berpindah activity dari mainactivity ke Home_Activity
+                        Intent i = new Intent(getApplicationContext(), Home_Activity.class);
 
                         //memasukkan bundle kedalam intent untuk dikirimkan ke ActivityHasil
                         i.putExtras(b);

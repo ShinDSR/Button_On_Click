@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_activiti_hasil.xml" value="0.12132725430597771" />
-        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_daftar.xml" value="0.12132725430597771" />
-        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_hasil.xml" value="0.12132725430597771" />
+        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_daftar.xml" value="0.1" />
+        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_hasil.xml" value="0.2" />
+        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_lihat_data.xml" value="0.2" />
         <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/layout/item_listview.xml" value="0.1" />
         <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Data/Semester 4/Pengembangan Aplikasi Mobile/Tugas/Act2/ButtonOnClick/app/src/main/res/menu/popup_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
